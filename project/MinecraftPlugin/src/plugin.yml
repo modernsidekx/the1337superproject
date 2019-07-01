@@ -1,0 +1,8 @@
+name: Plugin
+version: 1.0
+description: This plugin is so wtf.
+author: modernside
+authors: [modernside]
+
+main: ru.modernside.main.MainClass
+database: false
